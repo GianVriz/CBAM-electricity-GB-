@@ -6,7 +6,7 @@ A potential solution is the *carbon border adjustment mechanism* (CBAM), which e
 This project uses statistical models to assess the EU CBAM's future impact on GB. Results suggest it could hinder UK renewable energy exporters and slow the expansion of UK renewable capacity.
 
 The repository includes the following folders:
-* *[Code/Data](https://github.com/GianVriz/ELIU-presentation/tree/main/Uncertainty%20and%20climate%20change%20risks)* \
+* *[Code](https://github.com/GianVriz/ELIU-presentation/tree/main/Uncertainty%20and%20climate%20change%20risks](https://github.com/GianVriz/CBAM-electricity-GB-/tree/main/Code))* \
    Files related to the working paper.
 * *[Working Paper](https://github.com/GianVriz/ELIU-presentation/tree/main/Slides)* \
 
