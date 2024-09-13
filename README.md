@@ -11,7 +11,7 @@ The repository includes the following folders:
 * *[Working Paper](https://github.com/GianVriz/ELIU-presentation/tree/main/Slides](https://github.com/GianVriz/CBAM-electricity-GB-/tree/main/Working%20Paper))*
 
 <p align="center">
-<img src="https://github.com/GianVriz/CBAM-electricity-GB-/blob/main/Working%20Paper/Multi_plot_policy2-1.png" alt="drawing" width="500"/>
+<img src="https://github.com/GianVriz/CBAM-electricity-GB-/blob/main/Working%20Paper/Multi_plot_policy2-1.png" alt="drawing" width="1000"/>
 <p>
 
 
