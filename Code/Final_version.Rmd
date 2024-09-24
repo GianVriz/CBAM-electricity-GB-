@@ -137,11 +137,11 @@ Data from Electricity Map is utilized to conduct an empirical analysis on the re
 ```{r,warning=FALSE}
 #Uploading electricity map data
 GB_20 <-
-  read.csv("Data/Electricity_map_GB/GB_20.csv")[, 2:82]
+  read.csv("C:/Users/gian-/Desktop/Electricity_CBAM/Data/Electricity_map_GB/GB_20.csv")[, 2:82]
 GB_21 <-
-  read.csv("Data/Electricity_map_GB/GB_21_22.csv")[, 2:62]
+  read.csv("C:/Users/gian-/Desktop/Electricity_CBAM/Data/Electricity_map_GB/GB_21_22.csv")[, 2:62]
 GB_23 <-
-  read.csv("Data/Electricity_map_GB/GB_23.csv")[, 2:62]
+  read.csv("C:/Users/gian-/Desktop/Electricity_CBAM/Data/Electricity_map_GB/GB_23.csv")[, 2:62]
 dataset_tot_GB <- bind_rows(GB_20, GB_21, GB_23)
 dataset_tot_GB[is.na(dataset_tot_GB)] <- 0
 #Net imports EU
@@ -565,3 +565,23 @@ data %>%
 ```{r}
 knitr::knit_exit()
 ```
+
+```{r}
+df <- data.frame(Exports = c("Europe", "Europe", "Europe", "Europe", "Others", "Others", "Others", "Others"),
+                 State = c("Montenegro", "Serbia", "North Macedonia","United Kingdom", "Montenegro", "Serbia", "North Macedonia","United Kingdom"),
+                 freq = c(27,31,52,100,73,69,48,0))
+
+df$State <- factor(df$State,
+                   levels = c("United Kingdom", "North Macedonia", "Serbia", "Montenegro"),
+                   ordered = TRUE)
+
+df$Exports <- factor(df$Exports,
+                     levels = c("Others","Europe"),
+                     ordered = TRUE)
+
+ggplot(df, aes(x=freq, y=State, fill=Exports))+
+  geom_col(width = 0.6)+
+  scale_fill_manual(name = 'Exported Electricity',values=c("blue", "red")) + xlab('%')
+```
+
+

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.2)  13 SEP 2024 18:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.2)  19 SEP 2024 11:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -395,7 +395,8 @@ tex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count292
 \l__pdf_internal_box=\box55
-) (Final_version.aux)
+)
+No file Final_version.aux.
 \openout1 = `Final_version.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
@@ -496,188 +497,21 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 113.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-15.
-(C:\Users\gian-\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-15.
-(C:\Users\gian-\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-115.
-(C:\Users\gian-\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-115.
-(C:\Users\gian-\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 115.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 115.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 115.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 115
-.
-(C:\Users\gian-\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (C:\Users\gian-\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 115
-.
-(C:\Users\gian-\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (C:\Users\gian-\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-22.
-(C:\Users\gian-\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 123.
-LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
-129.
-(C:\Users\gian-\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmtt.fd
-File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [1
-
-{C:/Users/gian-/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/gian
--/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/gian-/Ap
-pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [2]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
-01.
-(C:\Users\gian-\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [3]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 445.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 445.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 445.
-
-LaTeX Warning: Command \texteuro invalid in math mode on input line 445.
-
-
-LaTeX Warning: Command \texteuro invalid in math mode on input line 445.
-
-
-LaTeX Warning: Command \textsterling invalid in math mode on input line 445.
-
-[4{C:/Users/gian-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C
-:/Users/gian-/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}] 
-[5]
-<Final_version_files/figure-latex/unnamed-chunk-9-1.pdf, id=41, 1084.05pt x 650
-.43pt>
-File: Final_version_files/figure-latex/unnamed-chunk-9-1.pdf Graphic file (type
- pdf)
-<use Final_version_files/figure-latex/unnamed-chunk-9-1.pdf>
-Package pdftex.def Info: Final_version_files/figure-latex/unnamed-chunk-9-1.pdf
-  used on input line 615.
-(pdftex.def)             Requested size: 469.75496pt x 281.85297pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 615--618
-[][]
- []
-
-[6] [7 <./Final_version_files/figure-latex/unnamed-chunk-9-1.pdf>]
-LaTeX Font Info:    Font shape `TS1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TS1/lmtt/b/n' tried instead on input line 717.
-<Final_version_files/figure-latex/unnamed-chunk-11-1.pdf, id=56, 1084.05pt x 65
-0.43pt>
-File: Final_version_files/figure-latex/unnamed-chunk-11-1.pdf Graphic file (typ
-e pdf)
-<use Final_version_files/figure-latex/unnamed-chunk-11-1.pdf>
-Package pdftex.def Info: Final_version_files/figure-latex/unnamed-chunk-11-1.pd
-f  used on input line 723.
-(pdftex.def)             Requested size: 469.75496pt x 281.85297pt.
-[8]
-Underfull \vbox (badness 7907) detected at line 766
- []
-
-[9 <./Final_version_files/figure-latex/unnamed-chunk-11-1.pdf>]
-<Final_version_files/figure-latex/unnamed-chunk-12-1.pdf, id=71, 1084.05pt x 65
-0.43pt>
-File: Final_version_files/figure-latex/unnamed-chunk-12-1.pdf Graphic file (typ
-e pdf)
-<use Final_version_files/figure-latex/unnamed-chunk-12-1.pdf>
-Package pdftex.def Info: Final_version_files/figure-latex/unnamed-chunk-12-1.pd
-f  used on input line 773.
-(pdftex.def)             Requested size: 469.75496pt x 281.85297pt.
-[10 <./Final_version_files/figure-latex/unnamed-chunk-12-1.pdf>]
-<Final_version_files/figure-latex/unnamed-chunk-13-1.pdf, id=84, 1084.05pt x 65
-0.43pt>
-File: Final_version_files/figure-latex/unnamed-chunk-13-1.pdf Graphic file (typ
-e pdf)
-<use Final_version_files/figure-latex/unnamed-chunk-13-1.pdf>
-Package pdftex.def Info: Final_version_files/figure-latex/unnamed-chunk-13-1.pd
-f  used on input line 803.
-(pdftex.def)             Requested size: 469.75496pt x 281.85297pt.
-[11 <./Final_version_files/figure-latex/unnamed-chunk-13-1.pdf>] [12]
-<Final_version_files/figure-latex/unnamed-chunk-16-1.pdf, id=100, 1084.05pt x 6
-50.43pt>
-File: Final_version_files/figure-latex/unnamed-chunk-16-1.pdf Graphic file (typ
-e pdf)
-<use Final_version_files/figure-latex/unnamed-chunk-16-1.pdf>
-Package pdftex.def Info: Final_version_files/figure-latex/unnamed-chunk-16-1.pd
-f  used on input line 930.
-(pdftex.def)             Requested size: 469.75496pt x 281.85297pt.
-
-Underfull \vbox (badness 1590) detected at line 965
- []
-
-[13 <./Final_version_files/figure-latex/unnamed-chunk-16-1.pdf>]
-<Final_version_files/figure-latex/unnamed-chunk-19-1.pdf, id=112, 1084.05pt x 6
-50.43pt>
-File: Final_version_files/figure-latex/unnamed-chunk-19-1.pdf Graphic file (typ
-e pdf)
-<use Final_version_files/figure-latex/unnamed-chunk-19-1.pdf>
-Package pdftex.def Info: Final_version_files/figure-latex/unnamed-chunk-19-1.pd
-f  used on input line 1019.
-(pdftex.def)             Requested size: 469.75496pt x 281.85297pt.
-[14] [15 <./Final_version_files/figure-latex/unnamed-chunk-19-1.pdf>]
-<Final_version_files/figure-latex/unnamed-chunk-20-1.pdf, id=126, 1084.05pt x 6
-50.43pt>
-File: Final_version_files/figure-latex/unnamed-chunk-20-1.pdf Graphic file (typ
-e pdf)
-<use Final_version_files/figure-latex/unnamed-chunk-20-1.pdf>
-Package pdftex.def Info: Final_version_files/figure-latex/unnamed-chunk-20-1.pd
-f  used on input line 1098.
-(pdftex.def)             Requested size: 469.75496pt x 281.85297pt.
-[16] [17 <./Final_version_files/figure-latex/unnamed-chunk-20-1.pdf>] (Final_ve
-rsion.aux)
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-29>
- ***********
- ) 
+! I can't write on file `Final_version.pdf'.
+(Press Enter to retry, or Control-C to exit; default file extension is `.pdf')
+Please type another file name for output
+! Emergency stop.
+<to be read again> 
+                   \edef 
+l.113 \begin{document}
+                       
 Here is how much of TeX's memory you used:
- 13956 strings out of 475248
- 222464 string characters out of 5757813
- 1935785 words of memory out of 5000000
- 35169 multiletter control sequences out of 15000+600000
- 602715 words of font info for 111 fonts, out of 8000000 for 9000
+ 13425 strings out of 475248
+ 209985 string characters out of 5757813
+ 1917785 words of memory out of 5000000
+ 34800 multiletter control sequences out of 15000+600000
+ 561988 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 77i,6n,81p,1012b,633s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/gian-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
-b><C:/Users/gian-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pf
-b><C:/Users/gian-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
-><C:/Users/gian-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
-<C:/Users/gian-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><
-C:/Users/gian-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><
-C:/Users/gian-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><
-C:/Users/gian-/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtti10.pfb>
-Output written on Final_version.pdf (17 pages, 470901 bytes).
-PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 24644 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 77i,1n,81p,1012b,382s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+!  ==> Fatal error occurred, no output PDF file produced!
