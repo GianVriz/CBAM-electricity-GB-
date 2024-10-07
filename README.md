@@ -1,13 +1,13 @@
 # CBAM’s Effect on Great Britain’s Electricity Flows
 Carbon pricing policies vary globally, with some nations imposing strict greenhouse gas regulations, while others have minimal or no restrictions. This disparity can lead to *leakage*, where energy-intensive industries relocate or import from regions with lax emissions policies. Leakage risks undermining global environmental efforts and the competitiveness of regulated firms.
 
-A potential solution is the *carbon border adjustment mechanism* (CBAM), which ensures equal carbon-related costs for companies competing in the same market. The EU CBAM, introduced in October 2023, applies to sectors like cement, steel, aluminum, fertilizers, hydrogen, and electricity. This is expected to impact electricity imports from Great Britain (GB) and the Western Balkans.
+A potential solution is the *carbon border adjustment mechanism* (CBAM), which ensures equal carbon-related costs for companies competing in the same market. The EU CBAM, introduced in October 2023, applies to sectors like cement, steel, aluminium, fertilizers, hydrogen, and electricity. This will impact electricity imports from Great Britain (GB) and the Western Balkans.
 
 This project uses statistical models to assess the EU CBAM's future impact on GB. Results suggest it could hinder UK renewable energy exporters and slow the expansion of UK renewable capacity.
 
 The repository includes the following folders:
 * *[Code](https://github.com/GianVriz/CBAM-electricity-GB-/tree/main/Code)* \
-   Data and code used for simulations and analysis.
+   Dataset and code for the empirical analysis.
 * *[Working Paper](https://github.com/GianVriz/CBAM-electricity-GB-/tree/main/Working%20Paper)* \
    Files related to the working paper.
 
