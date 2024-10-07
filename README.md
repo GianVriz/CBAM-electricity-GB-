@@ -7,8 +7,9 @@ This project uses statistical models to assess the EU CBAM's future impact on GB
 
 The repository includes the following folders:
 * *[Code](https://github.com/GianVriz/CBAM-electricity-GB-/tree/main/Code)* \
+   Dataset and code for the empirical analysis.
+* *[Working Paper](https://github.com/GianVriz/CBAM-electricity-GB-/tree/main/Working%20Paper)* \
    Files related to the working paper.
-* *[Working Paper](https://github.com/GianVriz/CBAM-electricity-GB-/tree/main/Working%20Paper)*
 
 <p align="center">
 <img src="https://github.com/GianVriz/CBAM-electricity-GB-/blob/main/Working%20Paper/Multi_plot_policy2-1.png" alt="drawing" width="1000"/>
