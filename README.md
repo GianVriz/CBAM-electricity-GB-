@@ -18,8 +18,8 @@ The repository includes the following folders:
 
 
 ## Authors
-* Gian Luca Vriz - [GianVriz](https://github.com/GianVriz)
 * Luca Taschini
+* Gian Luca Vriz - [GianVriz](https://github.com/GianVriz)
 * Joshua Burke
 
 ## References
